@@ -1,4 +1,3 @@
-Active-Record-Lite
+Hypoactive-Record
 ==================
-
-We rewrote much of the functionality of Rails ActiveRecord to better understand its inner workings during a solo day at App Academy.  
+Learning about Rails ActiveRecord by reverse engineering much of its functionality using metaprogramming, including attr_accessor, mass assignment, SQL queries, and associations.
